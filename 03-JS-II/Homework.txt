@@ -1,0 +1,2 @@
+* `for` seu sa para hacer siclos repetitivos, de las funciones que se describan en el 
+* `&&`, `||`, `!`. se usa para hacer operaciones buleanas. and, or y not respectivamente.
