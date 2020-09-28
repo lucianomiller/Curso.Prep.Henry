@@ -1,0 +1,9 @@
+	* Variables: variables con cajas donde se pueden guardar distintostios de valores.
+
+	* Strings: en los strings se guardan caracteres.
+
+	* Funciones (argumentos, `return`): las funciones son programas que ejecutan un codigo ya establecido, se le puede pasar variable y puede devolver variables.
+	* Declaraciones `if`: se usan para tomar deciciones y ejecutar distinos programas segun la condicion.
+
+	* Valores booleanos (`true`, `false`): el true es un 1 y el false es un 0. son los unicosa valores posibles.
+    
