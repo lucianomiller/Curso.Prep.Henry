@@ -1,0 +1,5 @@
+* Objetos: conjunto de propiedades 
+	* Propiedades : caracteristicas de un objeto
+	* Métodos : funciones. puden ser parte de objetos
+	* Bucle `for…in`: se usa para recorrer las propiedades de un objeto.
+	* Notación de puntos vs notación de corchetes: se usan para direccionar las calves de los objetos.
