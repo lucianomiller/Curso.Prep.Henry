@@ -1,0 +1,3 @@
+* `prototype` = se usa para declarar las funciones en las declaraciones de las class.
+
+* _Constructors_ (de Clases) = es una herrameinta para crear varios objetos que comparten los mismos metodos y propiedades.
